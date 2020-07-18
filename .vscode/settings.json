@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/misha/mysite_project/djangoEnv/bin/python3.8",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+
+    "code-runner.executorMap": {
+        "python": "/home/misha/mysite_project/djangoEnv/bin/python3.8",
+    }
+}
